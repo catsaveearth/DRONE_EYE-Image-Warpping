@@ -1,6 +1,6 @@
 # DRONE_EYE & Image Warpping
 
-Drone & Robotics Term project, Department of Software, Gachon Univ, South Korea. (2021 auttum semester)<br />
+Drone & Robotics Term project, Department of Software, Gachon Univ, South Korea. (2021 autumn semester)<br />
 
 ## Introduction
 1. Uses the laptop's webcam to detect eyes and uses it to control the drone tello.
